@@ -3,7 +3,7 @@ PyTorch Implementation of Timeflies.
 
 ## 📰 News
 
-🚩 2026-06: Initial upload to arXiv ([PDF](https://arxiv.org/pdf/)).
+🚩 2026-06-11: Initial upload to arXiv ([PDF](https://arxiv.org/pdf/2606.13571)).
 
 ## 🌟 Overview
 
@@ -18,7 +18,11 @@ Timeflies follows a dual-stream pipeline to jointly model observational existenc
 ## 📚 Citation
 If you find this repo useful, please consider citing our paper as follows:
 ```bibtex
-@article{
+@article{hu2026existence,
+      title={Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting}, 
+      author={Yifan Hu and Hongzhou Chen and Peiyuan Liu and Yiding Liu and Zewei Dong and Jiang-Ming Yang},
+      journal={arXiv preprint arXiv:2606.13571},
+      year={2026}
 }
 ```
 
