@@ -19,10 +19,10 @@ Timeflies follows a dual-stream pipeline to jointly model observational existenc
 If you find this repo useful, please consider citing our paper as follows:
 ```bibtex
 @article{hu2026existence,
-      title={Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting}, 
-      author={Yifan Hu and Hongzhou Chen and Peiyuan Liu and Yiding Liu and Zewei Dong and Jiang-Ming Yang},
-      journal={arXiv preprint arXiv:2606.13571},
-      year={2026}
+  title={Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting},
+  author={Hu, Yifan and Chen, Hongzhou and Liu, Peiyuan and Liu, Yiding and Dong, Zewei and Yang, Jiang-Ming},
+  journal={arXiv preprint arXiv:2606.13571},
+  year={2026}
 }
 ```
 
