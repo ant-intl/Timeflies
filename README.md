@@ -4,6 +4,7 @@ PyTorch Implementation of Timeflies.
 ## 📰 News
 
 🚩 2026-09-25: Timeflies has been accepted as NeurIPS 2026 Poster.
+
 🚩 2026-06-11: Initial upload to arXiv ([PDF](https://arxiv.org/pdf/2606.13571)).
 
 ## 🌟 Overview
